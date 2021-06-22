@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:parallax_travel/presentation/common/env.dart';
 
+import 'presentation/common/env.dart';
 import 'presentation/travel_card.dart';
 
 void main() {
